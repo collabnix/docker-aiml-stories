@@ -20,6 +20,7 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 - [The Strategic Imperative of AI in 2024](https://www.docker.com/blog/the-strategic-imperative-of-ai-in-2024/)
 - [“@docker can you help me…”: An Early Look at the Docker Extension for GitHub Copilot](https://www.docker.com/blog/preview-docker-extension-for-github-copilot/)
 - [Streamline the Development of Real-Time AI Applications with MindsDB Docker Extension](https://www.docker.com/blog/mindsdb-docker-extension/)
+- [A Quick Guide to Containerizing Llamafile with Docker for AI Applications](https://www.docker.com/blog/a-quick-guide-to-containerizing-llamafile-with-docker-for-ai-applications/)
 
 # Video
 
