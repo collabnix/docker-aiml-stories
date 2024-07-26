@@ -10,6 +10,10 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 
 # Blog
 
+- [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers
+](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
+- [How an AI Assistant Can Help Configure Your Project’s Git Hooks](https://www.docker.com/blog/how-an-ai-assistant-can-help-configure-your-projects-git-hooks/)
+
 
 # Video
 
