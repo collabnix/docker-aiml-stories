@@ -12,6 +12,7 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 
 ## Generative AI
 
+- [Getting Started with GenAI Stack powered with Docker, LangChain, Neo4j and Ollama](https://collabnix.com/getting-started-with-genai-stack-powered-with-docker-langchain-neo4j-and-ollama/)
 - [Introducing a New GenAI Stack: Streamlined AI/ML Integration Made Easy](https://www.docker.com/blog/introducing-a-new-genai-stack/)
 - [Local LLM Messenger: Chat with GenAI on Your iPhone](https://www.docker.com/blog/local-llm-messenger-chat-with-genai-on-your-iphone/)
 - [Using Generative AI to Create Runnable Markdown](https://www.docker.com/blog/using-generative-ai-to-create-runnable-markdown/)
