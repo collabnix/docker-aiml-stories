@@ -87,6 +87,13 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 | [![Docker & Ollama](https://i9.ytimg.com/vi_webp/NLOY9RLMI6k/maxresdefault.webp?v=65fdfbfb&sqp=CITZkrUG&rs=AOn4CLBLPQydw2LTDpCgBb-ipYY_Wa3w4Q)](https://www.youtube.com/watch?v=NLOY9RLMI6k) | 
 
-# Podcast
+
+## Contributors
+
+Find us on [Slack](https://www.launchpass.com/collabnix)
+
+<a href="https://github.com/collabnix/docker-aiml-stories/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=collabnix/docker-aiml-stories" />
+</a>
 
 
