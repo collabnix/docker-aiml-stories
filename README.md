@@ -44,7 +44,6 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 - [AI Trends Report 2024: AI’s Growing Role in Software Development](https://www.docker.com/blog/ai-trends-report-2024/)
 - [Docker Partners with NVIDIA to Support Building and Running AI/ML Applications](https://www.docker.com/blog/docker-nvidia-support-building-running-ai-ml-apps/)
 - [Empowering Data-Driven Development: Docker’s Collaboration with Snowflake and Docker AI Advancements](https://www.docker.com/blog/docker-collaboration-snowflake-snowpark/)
-- [Announcing the Docker AI/ML Hackathon 2023 Winners](https://www.docker.com/blog/announcing-the-docker-ai-ml-hackathon-2023-winners/)
 - [Announcing Docker AI/ML Hackathon](https://www.docker.com/blog/announcing-docker-ai-ml-hackathon/)
 - [How IKEA Retail Standardizes Docker Images for Efficient Machine Learning Model Deployment](https://www.docker.com/blog/how-ikea-retail-standardizes-docker-images-for-efficient-machine-learning-model-deployment/)
 - [How to Get Started with the Weaviate Vector Database on Docker](https://www.docker.com/blog/how-to-get-started-weaviate-vector-database-on-docker/)
@@ -61,6 +60,13 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 - [How to Deploy GPU-Accelerated Applications on Amazon ECS with Docker Compose](https://www.docker.com/blog/deploy-gpu-accelerated-applications-on-amazon-ecs-with-docker-compose/)
 - [Top Developer Trends for 2021](https://www.docker.com/blog/top-developer-trends-for-2021/)
 - [Depend on Docker for Kubeflow](https://www.docker.com/blog/depend-on-docker-for-kubeflow/)
+
+
+# AI/ML Hackathon
+
+- [Announcing the Docker AI/ML Hackathon 2023 Winners](https://www.docker.com/blog/announcing-the-docker-ai-ml-hackathon-2023-winners/)
+- [SignalOne Docker Extension](https://devpost.com/software/signal0ne)
+- [SeamlessML: Docker-Powered Serverless Model Orchestration](https://devpost.com/software/seamlessml-docker-powered-serverless-model-orchestration)
 
 ## 📹 Videos
 | Navan: Computer Vision AI                                                                                                                                                           | The GenAI Stack - from zero to database-backed Support Bot                                                                                                                         |
