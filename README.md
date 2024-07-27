@@ -14,9 +14,9 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 
 - [Getting Started with GenAI Stack powered with Docker, LangChain, Neo4j and Ollama](https://collabnix.com/getting-started-with-genai-stack-powered-with-docker-langchain-neo4j-and-ollama/)
 - [Introducing a New GenAI Stack: Streamlined AI/ML Integration Made Easy](https://www.docker.com/blog/introducing-a-new-genai-stack/)
-- [Local LLM Messenger: Chat with GenAI on Your iPhone](https://www.docker.com/blog/local-llm-messenger-chat-with-genai-on-your-iphone/)
-- [Using Generative AI to Create Runnable Markdown](https://www.docker.com/blog/using-generative-ai-to-create-runnable-markdown/)
-- [ReadMeAI: An AI-powered README Generator for Developers](https://www.docker.com/blog/readmeai-an-ai-powered-readme-generator-for-developers/)
+- [Local LLM Messenger: Chat with GenAI on Your iPhone](https://www.docker.com/blog/local-llm-messenger-chat-with-genai-on-your-iphone/) ![badge](https://img.shields.io/badge/-new-green) 
+- [Using Generative AI to Create Runnable Markdown](https://www.docker.com/blog/using-generative-ai-to-create-runnable-markdown/) ![badge](https://img.shields.io/badge/-new-green) 
+- [ReadMeAI: An AI-powered README Generator for Developers](https://www.docker.com/blog/readmeai-an-ai-powered-readme-generator-for-developers/) ![badge](https://img.shields.io/badge/-new-green) 
 - [Build Your Own AI-Driven Code Analysis Chatbot for Developers with the GenAI Stack](https://www.docker.com/blog/build-your-own-ai-driven-code-analysis-chatbot-genai-stack/)
 - [A Quick Guide to Containerizing Llamafile with Docker for AI Applications](https://www.docker.com/blog/a-quick-guide-to-containerizing-llamafile-with-docker-for-ai-applications/)
 - [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
@@ -34,8 +34,8 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 
 ## Generic AI
 
-- [How an AI Assistant Can Help Configure Your Project’s Git Hooks](https://www.docker.com/blog/how-an-ai-assistant-can-help-configure-your-projects-git-hooks/)
-- [Docker Documentation Gets an AI-Powered Assistant](https://www.docker.com/blog/docker-documentation-ai-powered-assistant/)
+- [How an AI Assistant Can Help Configure Your Project’s Git Hooks](https://www.docker.com/blog/how-an-ai-assistant-can-help-configure-your-projects-git-hooks/) ![badge](https://img.shields.io/badge/-new-green) 
+- [Docker Documentation Gets an AI-Powered Assistant](https://www.docker.com/blog/docker-documentation-ai-powered-assistant/) ![badge](https://img.shields.io/badge/-new-green) 
 - [The Strategic Imperative of AI in 2024](https://www.docker.com/blog/the-strategic-imperative-of-ai-in-2024/)
 - [“@docker can you help me…”: An Early Look at the Docker Extension for GitHub Copilot](https://www.docker.com/blog/preview-docker-extension-for-github-copilot/)
 - [Streamline the Development of Real-Time AI Applications with MindsDB Docker Extension](https://www.docker.com/blog/mindsdb-docker-extension/)
