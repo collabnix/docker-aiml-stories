@@ -61,10 +61,11 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 - [Top Developer Trends for 2021](https://www.docker.com/blog/top-developer-trends-for-2021/)
 - [Depend on Docker for Kubeflow](https://www.docker.com/blog/depend-on-docker-for-kubeflow/)
 
-# Video
+## 📹 Videos
 
-
-- [Exécuter des LLMs en local avec Docker et Ollama](https://www.youtube.com/watch?v=NLOY9RLMI6k)
+| Exécuter des LLMs en local avec Docker et Ollama                                                                                                                                        
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+| [![Docker & Ollama](https://i9.ytimg.com/vi_webp/NLOY9RLMI6k/maxresdefault.webp?v=65fdfbfb&sqp=CITZkrUG&rs=AOn4CLBLPQydw2LTDpCgBb-ipYY_Wa3w4Q)](https://www.youtube.com/watch?v=NLOY9RLMI6k) | 
 
 # Podcast
 
