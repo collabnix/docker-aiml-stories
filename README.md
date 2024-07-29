@@ -62,13 +62,110 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 - [Depend on Docker for Kubeflow](https://www.docker.com/blog/depend-on-docker-for-kubeflow/)
 
 
-# AI/ML Hackathon
+ 
+ ## AI/ML Deployment
 
-- [Announcing the Docker AI/ML Hackathon 2023 Winners](https://www.docker.com/blog/announcing-the-docker-ai-ml-hackathon-2023-winners/)
-- [SignalOne Docker Extension](https://devpost.com/software/signal0ne)
+
 - [SeamlessML: Docker-Powered Serverless Model Orchestration](https://devpost.com/software/seamlessml-docker-powered-serverless-model-orchestration)
+- [Python Package for ML deployments](https://devpost.com/software/python-package-for-ml-deployments)
+- [Callisto: An ML starter template using Docker](https://devpost.com/software/callisto-an-ml-starter-template-using-docker)
+- [AI/ML based data processing application with Docker](https://devpost.com/software/a-docker-distributed-ai-ml-data-processing-application)
+- [DeepCySec](https://devpost.com/software/deepcysec)
+- [Containerized Online Bandit Experimentation (COBE) Platform](https://devpost.com/software/containerized-online-bandit-experimentation-cobe-platform)
 
-# 📹 Videos
+## Developer Tools and Projects
+
+- [Signal0ne](https://devpost.com/software/signal0ne)
+- [Dionysus](https://devpost.com/software/dionysus)
+- [DockerImageAnalyzer](https://devpost.com/software/dockerimageoptimizer)
+- [Docker Pulse](https://devpost.com/software/dockerpulse-8iovtd)
+- [Techdocs](https://devpost.com/software/atlascode)
+- [Docker Genius](https://devpost.com/software/docker-genius)
+- [Docker Copilot](https://devpost.com/software/docker-copilot)
+- [CodeBot](https://devpost.com/software/codebot)
+- [local mlops monitoring](https://devpost.com/software/local-mlops-monitoring)
+- [DockerAIML Beginner Project](https://devpost.com/software/dockeraiml-project)
+- [Docker Image Optimizer](https://devpost.com/software/docker-image-optimizer)
+- [docker network visualization using openai](https://devpost.com/software/docker-network-visualization-using-openai)
+- [docker-my-app](https://devpost.com/software/docker-my-app)
+- [Combodock](https://devpost.com/software/combodock)
+
+## AI Assistants and Automation
+
+- [Chiral AI - Chat with PRDs and Create Tickets in Record Time](https://devpost.com/software/nextgen-0y4arn)
+- [GitChats AI](https://devpost.com/software/gitchats)
+- [ReadmeAI](https://devpost.com/software/readmeai)
+- [SIFTBOX](https://devpost.com/software/smealty)
+- [RavenML: Automate Business Workflows with AI and Docker](https://devpost.com/software/business-insights-ml)
+- [P8Hub - Private AI Hub](https://devpost.com/software/p8hub-private-ai-hub)
+- [QGenie](https://devpost.com/software/qgenie)
+
+## Health and Wellness
+
+- [Health Square](https://devpost.com/software/health-square-62u9ob)
+- [HeartFul Wellness](https://devpost.com/software/heartful-wellness)
+- [Medical Image Analysis using Docker](https://devpost.com/software/medical-image-analysis-using-docker)
+- [Segment life saver](https://devpost.com/software/segment-life-saver)
+- [Diabetes-ml-project](https://devpost.com/software/diabetes-ml-project)
+
+## Education and Learning
+
+- [Dataficial](https://devpost.com/software/dataficial)
+- [EduSign](https://devpost.com/software/edusign-6hmxje)
+- [Coursify: AI generated course on any topic with video & quiz](https://devpost.com/software/coursify-ai-generated-course-on-any-topic-with-video-quiz)
+
+## Natural Language Processing (NLP) and Communication
+
+- [Local LLM Messenger (lollmm)](https://devpost.com/software/local-lingo-messenger)
+- [Text Summarizer](https://devpost.com/software/news-summarizer-puxflk)
+- [Multi-document Summarizer as a Service](https://devpost.com/software/multi-document-summarizer-as-a-service)
+- [ContextualConnect Pro](https://devpost.com/software/contextualconnect-pro)
+- [Nlp base chat app](https://devpost.com/software/nlp-base-chat-app)
+
+## AI-Powered Applications
+
+- [SolPredict](https://devpost.com/software/solpredict)
+- [Gait Analyzer](https://devpost.com/software/gait-analyzer)
+- [Facial Recognition](https://devpost.com/software/facial-recognition-6dj387)
+- [Robot Hand controlled with camera using ML](https://devpost.com/software/robot-hand-controlled-with-camera-using-ml)
+- [AI ride](https://devpost.com/software/ai-ride)
+- [Image Max](https://devpost.com/software/image-max)
+- [BrainWave Diagnosis](https://devpost.com/software/brainwave-diagnosis)
+- [Telco Churn Calculator](https://devpost.com/software/telco-churn-calculator)
+- [Movie Budget Prediction](https://devpost.com/software/movie-budget-prediction)
+- [Thrift Taste](https://devpost.com/software/expenditure-tracker)
+
+## Security and Monitoring
+
+- [Docker Log Sentiment Analyzer](https://devpost.com/software/sentiment-analysis-mj3vb4)
+- [DeepCySec](https://devpost.com/software/deepcysec)
+
+## Documentation and Knowledge Management
+
+- [Techdocs](https://devpost.com/software/atlascode)
+- [GitDoc - AI-generated code documentation](https://devpost.com/software/gitdoc-ai-generated-code-documentation)
+- [Code Explorer](https://devpost.com/software/code-explorer)
+
+## Miscellaneous
+
+- [Bold Pilot](https://devpost.com/software/bold-pilot)
+- [ChatGpt system using Docker](https://devpost.com/software/chatgpt-system-using-docker)
+- [apina.io](https://devpost.com/software/apina-io)
+- [Honeypot the Bot!](https://devpost.com/software/honeypot-the-bot)
+- [Zero-Shot Stochastic Byte Generator](https://devpost.com/software/zero-shot-stochastic-byte-generator)
+- [FinApp Chatbot - Revolutionising Business Intelligence](https://devpost.com/software/finapp-egj9av)
+- [MovieManch](https://devpost.com/software/movie-recommender-hpj549)
+- [Labophase](https://devpost.com/software/labophase)
+- [ION Linux Distribution](https://devpost.com/software/ion-linux-distribution)
+- [Pet Me](https://devpost.com/software/kisan-mitra)
+- [SEAMATE](https://devpost.com/software/seamate)
+- [MindScribe](https://devpost.com/software/mindscribe)
+- [Metacare.AI](https://devpost.com/software/metacare-ai)
+- [TerraSaan](https://devpost.com/software/terrasaan)
+
+## 📹 Videos
+
+
 | Navan: Computer Vision AI                                                                                                                                                           | The GenAI Stack - from zero to database-backed Support Bot                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Navan: Computer Vision AI](https://i.ytimg.com/vi/Za3KOfPFgqQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzM5YPbH7h1UfX9kUT66x0UFjUyw)](https://www.youtube.com/watch?v=Za3KOfPFgqQ&list=PLkA60AVN3hh8XPA1-scwmK6hNnhoxmODa&index=1&pp=iAQB) | [![The GenAI Stack](https://i.ytimg.com/vi/_6AjBX9Pagc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6h21DppDBbMjTJBzYXaScvDXc_w)](https://www.youtube.com/watch?v=_6AjBX9Pagc&list=PLkA60AVN3hh8XPA1-scwmK6hNnhoxmODa&index=2&pp=iAQB) |
