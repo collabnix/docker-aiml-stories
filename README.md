@@ -188,7 +188,7 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 
 
 
-# Docker GenAI Stack
+# GenAI Stack Labs and Workshop
 
 | Lab 1 - Building and deploying a simple GenAI application | Lab 2 - Using Docker to containerize and deploy GenAI applications|
 |-----------------------------------------------------------|-------------|
