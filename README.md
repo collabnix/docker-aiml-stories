@@ -188,6 +188,18 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 
 
 
+# Docker GenAI Stack
+
+| Lab 1 - Building and deploying a simple GenAI application | Lab 2 - Using Docker to containerize and deploy GenAI applications|
+|-----------------------------------------------------------|-------------|
+|[![Building and deploying a simple GenAI application](assets/images/lab1.png)](https://genai-workshops-apac.netlify.app/lab1/overview/)|[![Using Docker to containerize and deploy GenAI applications](assets/images/lab2.png)](https://genai-workshops-apac.netlify.app/lab2/what-is-docker/)|
+| Lab 3 - Using Neo4j to store and manage knowledge graphs | Lab 4 - Using LangChain to integrate LLMs into Gen-AI applications|
+|[![Using Neo4j to store and manage knowledge graphs](assets/images/lab3.png)](https://genai-workshops-apac.netlify.app/lab3/intro/)|[![Using LangChain to integrate LLMs into Gen-AI applications](assets/images/lab4.png)](https://genai-workshops-apac.netlify.app/lab4/llms-intro/)|
+| Lab 5 - Using Ollama to deploy large language models | Lab 6 - Gen-AI Stack - Let’s bring it together|
+|[![Using Ollama to deploy large language models](assets/images/lab5.png)](https://genai-workshops-apac.netlify.app/lab5/intro-to-ollama/)|[![Gen-AI Stack - Let’s bring it together](assets/images/lab6.png)](https://genai-workshops-apac.netlify.app/lab6/llms-hallucination/)|
+
+
+
 ## Contributors
 
 Find us on [Slack](https://www.launchpass.com/collabnix)
