@@ -62,10 +62,9 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 - [Depend on Docker for Kubeflow](https://www.docker.com/blog/depend-on-docker-for-kubeflow/)
 
 
-# AI/ML Hackathon
+ 
+ ## AI/ML Deployment
 
-> [Announcing the Docker AI/ML Hackathon 2023 Winners](https://www.docker.com/blog/announcing-the-docker-ai-ml-hackathon-2023-winners/)
- ## ML/AI Deployment
 
 - [SeamlessML: Docker-Powered Serverless Model Orchestration](https://devpost.com/software/seamlessml-docker-powered-serverless-model-orchestration)
 - [Python Package for ML deployments](https://devpost.com/software/python-package-for-ml-deployments)
@@ -74,7 +73,7 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 - [DeepCySec](https://devpost.com/software/deepcysec)
 - [Containerized Online Bandit Experimentation (COBE) Platform](https://devpost.com/software/containerized-online-bandit-experimentation-cobe-platform)
 
-## Developer Tools
+## Developer Tools and Projects
 
 - [Signal0ne](https://devpost.com/software/signal0ne)
 - [Dionysus](https://devpost.com/software/dionysus)
@@ -163,7 +162,10 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 - [MindScribe](https://devpost.com/software/mindscribe)
 - [Metacare.AI](https://devpost.com/software/metacare-ai)
 - [TerraSaan](https://devpost.com/software/terrasaan)
+
 ## 📹 Videos
+
+
 | Navan: Computer Vision AI                                                                                                                                                           | The GenAI Stack - from zero to database-backed Support Bot                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Navan: Computer Vision AI](https://i.ytimg.com/vi/Za3KOfPFgqQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzM5YPbH7h1UfX9kUT66x0UFjUyw)](https://www.youtube.com/watch?v=Za3KOfPFgqQ&list=PLkA60AVN3hh8XPA1-scwmK6hNnhoxmODa&index=1&pp=iAQB) | [![The GenAI Stack](https://i.ytimg.com/vi/_6AjBX9Pagc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6h21DppDBbMjTJBzYXaScvDXc_w)](https://www.youtube.com/watch?v=_6AjBX9Pagc&list=PLkA60AVN3hh8XPA1-scwmK6hNnhoxmODa&index=2&pp=iAQB) |
@@ -184,9 +186,6 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Inflight collaboration for your AI/ML stack on Docker](https://i.ytimg.com/vi/YbtKGBbkj2k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCadtlKJfvvzE-kcPtFDltjnok8Ow)](https://www.youtube.com/watch?v=YbtKGBbkj2k&list=PLkA60AVN3hh8XPA1-scwmK6hNnhoxmODa&index=10&pp=iAQB) | [![Docker AI/ML Hackathon WINNER ANNOUNCEMENT](https://i.ytimg.com/vi/kGFc9fGuhDA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXU5wA2mZ-UnQ35xrjbuafM5pRAQ)](https://www.youtube.com/watch?v=kGFc9fGuhDA&list=PLkA60AVN3hh8XPA1-scwmK6hNnhoxmODa&index=11&pp=iAQB) |
 
-| Exécuter des LLMs en local avec Docker et Ollama                                                                                                                                        
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-| [![Docker & Ollama](https://i9.ytimg.com/vi_webp/NLOY9RLMI6k/maxresdefault.webp?v=65fdfbfb&sqp=CITZkrUG&rs=AOn4CLBLPQydw2LTDpCgBb-ipYY_Wa3w4Q)](https://www.youtube.com/watch?v=NLOY9RLMI6k) | 
 
 
 ## Contributors
