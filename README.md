@@ -7,6 +7,22 @@
 # 👉 A Curated List of Docker AI/ML Use Cases
 
 This repo is a curated list of Docker AI/ML use cases and case studies.
+## Table of Contents
+- [Blog](#blog)
+   - [Generative AI](#generative-ai)
+   - [Hugging Face Integration](#hugging-face)
+   - [AI/ML Use Cases](#generic-ai)
+   - [Deployment and Automation](#aiassistants-and-automation)
+   - [Developer Tools and Projects](#developer-tools-and-projects)
+   - [Health and Wellness Applications](#health-and-wellness)
+   - [Education and Learning](#education-and-learning)
+   - [NLP and Communication](#natural-language-processing-nlp-and-communication)
+   - [Security and Monitoring](#security-and-monitoring)
+   - [Documentation and Knowledge Management](#documentation-and-knowledge-management)
+- [Videos](#videos)
+- [Workshops and Labs](#genai-stack-labs-and-workshop)
+- [Contributors](#contributors)
+
 
 # Blog
 
@@ -163,7 +179,7 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 - [Metacare.AI](https://devpost.com/software/metacare-ai)
 - [TerraSaan](https://devpost.com/software/terrasaan)
 
-## 📹 Videos
+# 📹 Videos
 
 
 | Navan: Computer Vision AI                                                                                                                                                           | The GenAI Stack - from zero to database-backed Support Bot                                                                                                                         |
