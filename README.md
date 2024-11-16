@@ -8,6 +8,7 @@
 
 This repo is a curated list of Docker AI/ML use cases and case studies.
 ## Table of Contents
+- [Featured projects](#featured-projects)
 - [Blog](#blog)
    - [Generative AI](#generative-ai)
    - [Hugging Face Integration](#hugging-face)
@@ -22,6 +23,11 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 - [Videos](#videos)
 - [Workshops and Labs](#genai-stack-labs-and-workshop)
 - [Contributors](#contributors)
+
+
+# Featured Projects
+
+- [LLM Agent with LangGraph and Docker for executing the agent's code in a containerized environment](https://github.com/paulomuraroferreira/LLM-agents-with-docker)
 
 
 # Blog
