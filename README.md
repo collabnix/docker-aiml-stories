@@ -10,6 +10,7 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 ## Table of Contents
 - [Featured projects](#featured-projects)
 - [Blog](#blog)
+   - [Model Context Protoco](#model-context-protocol) 
    - [Generative AI](#generative-ai)
    - [Hugging Face Integration](#hugging-face)
    - [AI/ML Use Cases](#generic-ai)
@@ -31,6 +32,16 @@ This repo is a curated list of Docker AI/ML use cases and case studies.
 
 
 # Blog
+
+## Model Context Protocol
+
+- [The Model Context Protocol: Simplifying Building AI apps with Anthropic Claude Desktop and Docker](https://www.docker.com/blog/the-model-context-protocol-simplifying-building-ai-apps-with-anthropic-claude-desktop-and-docker/)
+- [What is Model Context Protocol (MCP) and what problem it solves?](https://collabnix.com/what-is-model-context-protocol-mcp-and-what-problem-it-solves/)
+- [Exploring the Docker Desktop Extension for MCP servers](https://www.youtube.com/watch?v=eyNX0Uv4jq0)
+- [Creating an MCP Server in Go and Serving it with Docker](https://k33g.hashnode.dev/creating-an-mcp-server-in-go-and-serving-it-with-docker) ![badge](https://img.shields.io/badge/-new-green) 
+- [Postgres MCP Server, Docker and Claude Desktop](https://collabnix.com/postgres-and-model-context-protocol/)![badge](https://img.shields.io/badge/-new-green) 
+- [Ask Gordon and Model Context Protocol (MCP) – Working Together](https://collabnix.com/ask-gordon-and-model-context-protocol-mcp-working-together/)![badge](https://img.shields.io/badge/-new-green) 
+- [GitHub MCP Server, Docker and Claude Desktop](https://collabnix.com/github-mcp-server-docker-and-claude-desktop/)![badge](https://img.shields.io/badge/-new-green) 
 
 ## Generative AI
 
